@@ -16,6 +16,8 @@ I have an MS from Georgetown University in Mathematics and Statistics and a BS f
 
 I have a strong background in statistics, and I am looking for a career that fuses my programming and communication skills. I would love to explore any fields that use data to make an impact on the community, particularly through policy.
 
+You can reach me at doylecadence@gmail.com or add me on [LinkedIn](https://www.linkedin.com/in/cadence-doyle/).
+
 <!---
 CadenceDoyle/CadenceDoyle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
