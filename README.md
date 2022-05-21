@@ -3,8 +3,8 @@
 My name is Cadence Doyle, a data scientist looking to make a difference.
 
 I have 5 years of experience in data management, data analytics, and data visualization. I’ve worked for two small consulting companies supporting government clients, specifically DHS and DOE. I am proficient in: 
-- SQL 
 - R 
+- SQL 
 - Python 
 - PowerBI 
 - Tableau 
